@@ -172,7 +172,7 @@
                                 "&lt;a href=\"https://www.w3.org/2021/Process-20211102/#recs-and-notes\"&gt;Registry track&lt;/a&gt;"
                             ],
                             "customParagraph": true,
-                            "stability": "It <span class=\"rfc2119\">must</span> set expectations about the (in)stability of the document. The <span class=\"rfc2119\">recommended</span> text is: <blockquote class=\"boilerplate\"><p>Publication as a Draft Registry does not imply endorsement by W3C and its Members</p></blockquote>",
+                            "stability": "It <span class=\"rfc2119\">must</span> set expectations about the (in)stability of the document. The <span class=\"rfc2119\">recommended</span> text is: <blockquote class=\"boilerplate\"><p>Publication as a Draft Registry does not imply endorsement by W3C and its Members.</p></blockquote>",
                             "draftStability": true,
                             "patentPolicy2017": true,
                             "knownDisclosureNumber": true,
